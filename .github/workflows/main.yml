@@ -11,8 +11,8 @@ on:
     branches:
       - master
 env:
-  IMAGE_NAME: argo-cd-helmfile
-  REGISTRY: Oded-B
+  IMAGE_NAME: Oded-B/argo-cd-helmfile
+  REGISTRY: ghcr.io
 
 jobs:
   build:

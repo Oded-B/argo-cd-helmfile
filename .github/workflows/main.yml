@@ -10,7 +10,6 @@ on:
       - "v*"
     branches:
       - master
-      - nextenv:
 env:
   IMAGE_NAME: argo-cd-helmfile
   REGISTRY: Oded-B
